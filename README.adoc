@@ -61,6 +61,8 @@ ros2 run demo_nodes_py listener
 ....
  ROS_Task_1
   └── ReadMe.adoc      => this file
+  └── pic1.png      => picture of running example 1
+  └── pic2.png      => picture of running example 2
 ....
 
 === Contributing
