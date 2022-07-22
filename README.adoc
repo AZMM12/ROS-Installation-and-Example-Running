@@ -1,4 +1,4 @@
-= Project: {First_Task_IOT}
+= Project: {ROS_Task_1}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -9,7 +9,7 @@
 == Description of project:
 Designing Web Audio Speech Recognition using javascript.
 
-== Installation Steps:
+== Task 1 : ROS HUMBLE Installation Steps: (im using Ubuntu 22.04)
 1. Download Virtual box .
 2. Download Ubuntu LTS .
 3. Type commands below to install ROS :
@@ -55,6 +55,13 @@ In another terminal source the setup file and then run a Python listener:
 
 source /opt/ros/humble/setup.bash
 ros2 run demo_nodes_py listener
+
+For Task 2 : Installing ROS2 on jetson nano:
+1.install VirtualBox .
+2.Install XUbuntu .
+3.Install balena .
+5.Write XUbuntu to flash or card using balena .
+4.Now preform same steps for Task1 Because its ROS2 .
 
 === Folder structure
 
