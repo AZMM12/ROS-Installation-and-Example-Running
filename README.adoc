@@ -7,7 +7,7 @@
 === License: Public Domain .
 
 == Description of project:
-Designing Web Audio Speech Recognition using javascript.
+Downloading Ubuntu and ROS with the help of virtual box.
 
 == Task 1 : ROS HUMBLE Installation Steps: (im using Ubuntu 22.04)
 1. Download Virtual box .
