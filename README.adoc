@@ -71,12 +71,3 @@ For Task 2 : Installing ROS2 on jetson nano:
   └── pic1.png      => picture of running example 1
   └── pic2.png      => picture of running example 2
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
-
